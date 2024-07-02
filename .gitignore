@@ -1,0 +1,9 @@
+.venv
+.idea
+.env
+
+*.log
+*.pot
+*.pyc
+
+check.py
